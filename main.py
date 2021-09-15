@@ -1,3 +1,5 @@
+#Importação das libs necessarias
+#Importing the necessary libs
 import requests
 from bs4 import BeautifulSoup
 from PIL import Image
