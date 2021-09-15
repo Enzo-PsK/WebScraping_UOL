@@ -12,3 +12,7 @@ This project is not the end, but the mean to bigger projects that involve AI tra
 * Python Lib: Requests: HTTP for Humans v2.26.0
 * Python Lib: Beautiful Soup v4.9.0
 * Python Lib: Pillow v8.3.2
+
+### Printscreen of the final result
+
+<img src="https://github.com/Enzo-PsK/WebScraping_UOL/blob/main/printscreen_final.PNG" width="400"/>
