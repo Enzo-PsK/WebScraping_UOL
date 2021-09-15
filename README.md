@@ -15,4 +15,4 @@ This project is not the end, but the mean to bigger projects that involve AI tra
 
 ### Printscreen of the final result
 
-<img src="https://github.com/Enzo-PsK/WebScraping_UOL/blob/main/printscreen_final.PNG" width="400"/>
+<img src="https://github.com/Enzo-PsK/WebScraping_UOL/blob/main/printscreen_final.PNG"/>
